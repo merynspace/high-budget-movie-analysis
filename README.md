@@ -56,12 +56,6 @@ Example SQL concepts used:
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Preview](images/dashboard.png)
-
----
-
 ## Files Included
 - Power BI dashboard (.pbix)
 - SQL queries
