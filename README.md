@@ -1,7 +1,3 @@
-# high-budget-movie-analysis
-SQL and Power BI dashboard analyzing movie profitability, revenue trends, and genre performance.
-# High-Budget Movies Financial Analysis Dashboard
-
 ## Project Overview
 This project analyzes financial and performance trends among high-budget movies using SQL and Power BI. The dashboard explores revenue, profitability, release season trends, genre performance, and return on investment (ROI).
 
